@@ -1,0 +1,6 @@
+usr/local/bin/yarncoin-qt usr/bin
+share/pixmaps/yarncoin32.xpm usr/share/pixmaps
+share/pixmaps/yarncoin16.xpm usr/share/pixmaps
+share/pixmaps/yarncoin128.png usr/share/pixmaps
+debian/yarncoin-qt.desktop usr/share/applications
+debian/yarncoin-qt.protocol usr/share/kde4/services/

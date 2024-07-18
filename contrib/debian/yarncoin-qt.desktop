@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=YarnCoin Core
+Comment=YarnCoin P2P Cryptocurrency
+Comment[fr]=YarnCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=YarnCoin, eşten eşe kriptografik sanal para birimi
+Exec=yarncoin-qt %u
+Terminal=false
+Type=Application
+Icon=yarncoin128
+MimeType=x-scheme-handler/yarncoin;
+Categories=Office;Finance;
+StartupWMClass=YarnCoin-qt

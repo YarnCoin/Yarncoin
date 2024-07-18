@@ -1,0 +1,8 @@
+/usr/bin/yarncoin-cli		--	gen_context(system_u:object_r:yarncoin_exec_t,s0)
+/usr/sbin/yarncoind		--	gen_context(system_u:object_r:yarncoin_exec_t,s0)
+/usr/lib(64)?/yarncoin/yarncoind		--	gen_context(system_u:object_r:yarncoin_exec_t,s0)
+
+/etc/yarncoin(/.*)?		gen_context(system_u:object_r:yarncoin_conf_t,s0)
+/var/lib/yarncoin(/.*)?		gen_context(system_u:object_r:yarncoin_var_lib_t,s0)
+
+(/var)?/run/yarncoind(/.*)?   gen_context(system_u:object_r:yarncoin_var_run_t,s0)

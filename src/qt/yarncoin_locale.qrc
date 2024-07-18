@@ -1,0 +1,37 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/yarncoin_bg.qm</file>
+        <file alias="ca">locale/yarncoin_ca.qm</file>
+        <file alias="cs">locale/yarncoin_cs.qm</file>
+        <file alias="da">locale/yarncoin_da.qm</file>
+        <file alias="de">locale/yarncoin_de.qm</file>
+        <file alias="en">locale/yarncoin_en.qm</file>
+        <file alias="en_GB">locale/yarncoin_en_GB.qm</file>
+        <file alias="en_US">locale/yarncoin_en_US.qm</file>
+        <file alias="eo">locale/yarncoin_eo.qm</file>
+        <file alias="es">locale/yarncoin_es.qm</file>
+        <file alias="es_ES">locale/yarncoin_es_ES.qm</file>
+        <file alias="fi">locale/yarncoin_fi.qm</file>
+        <file alias="fr_FR">locale/yarncoin_fr_FR.qm</file>
+        <file alias="hi_IN">locale/yarncoin_hi_IN.qm</file>
+        <file alias="hr">locale/yarncoin_hr.qm</file>
+        <file alias="hr_HR">locale/yarncoin_hr_HR.qm</file>
+        <file alias="it">locale/yarncoin_it.qm</file>
+        <file alias="ja">locale/yarncoin_ja.qm</file>
+        <file alias="ko_KR">locale/yarncoin_ko_KR.qm</file>
+        <file alias="lt_LT">locale/yarncoin_lt_LT.qm</file>
+        <file alias="nl">locale/yarncoin_nl.qm</file>
+        <file alias="pl">locale/yarncoin_pl.qm</file>
+        <file alias="pt">locale/yarncoin_pt.qm</file>
+        <file alias="pt_BR">locale/yarncoin_pt_BR.qm</file>
+        <file alias="ro_RO">locale/yarncoin_ro_RO.qm</file>
+        <file alias="ru">locale/yarncoin_ru.qm</file>
+        <file alias="sk">locale/yarncoin_sk.qm</file>
+        <file alias="sv">locale/yarncoin_sv.qm</file>
+        <file alias="tr">locale/yarncoin_tr.qm</file>
+        <file alias="uk">locale/yarncoin_uk.qm</file>
+        <file alias="vi">locale/yarncoin_vi.qm</file>
+        <file alias="zh_CN">locale/yarncoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/yarncoin_zh_TW.qm</file>
+    </qresource>
+</RCC>

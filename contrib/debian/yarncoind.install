@@ -1,0 +1,3 @@
+usr/local/bin/yarncoind usr/bin
+usr/local/bin/yarncoin-cli usr/bin
+debian/examples/yarncoin.conf etc/yarncoin
