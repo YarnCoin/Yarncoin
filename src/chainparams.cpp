@@ -180,7 +180,7 @@ public:
         assert(hashGenesisBlock == uint256("0x00000c115b11b42f9f7b92a7927b61a2c130aa38827c91d5b48b3dba07237241"));
         assert(genesis.hashMerkleRoot == uint256("0xdc3f4b5ef78007e303fc044f13ebdbb02a6c7bf71a16efe60071fdbea375b1a8"));
 
-        vSeeds.push_back(CDNSSeedData("walletbuilders.com", "node3.walletbuilders.com"));
+        vSeeds.push_back(CDNSSeedData("yarncoin.net", "node.yarncoin.net"));
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 78);
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1, 79);
